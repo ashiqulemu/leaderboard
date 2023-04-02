@@ -30,7 +30,39 @@ export default {
         },
         {  
           user:'Derrick L. Thoman',
+          point:4455,
+        },
+        {  
+          user:'Kelsey T. Donovan',
+          point:6555,
+        },
+        {  
+          user:'Jack L. Gregory',
+          point:2434,
+        },
+        {  
+          user:'Mary R. Mercado',
+          point:9867,
+        },
+        {  
+          user:'Theresa N. Maki',
+          point:5455,
+        },
+        {  
+          user:'Jack L. Gregory',
           point:4985,
+        },
+        {  
+          user:'8 James R. Stokes',
+          point:4355,
+        },
+        {  
+          user:'9 David B. Rodriguez',
+          point:4985,
+        },
+        {  
+          user:'Annette R. Allen',
+          point:9679,
         },
         {  
           user:'Kelsey T. Donovan',
@@ -45,24 +77,12 @@ export default {
           point:4985,
         },
         {  
-          user:'Theresa N. Maki',
-          point:4985,
-        },
-        {  
-          user:'Jack L. Gregory',
-          point:4985,
-        },
-        {  
-          user:'8 James R. Stokes',
-          point:4985,
-        },
-        {  
           user:'9 David B. Rodriguez',
           point:4985,
         },
         {  
           user:'Annette R. Allen',
-          point:4985,
+          point:9679,
         },
         {  
           user:'Kelsey T. Donovan',

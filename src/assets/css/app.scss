@@ -45,6 +45,10 @@ body {
   height: 100vh;
   background: $primary;
 
+  @media(max-width:768px){
+    width: 100vw;
+  }
+
   .title {
     font-size: 2rem;
     padding: 40px 0 25px 0;
@@ -115,6 +119,7 @@ body {
       padding-right: 20px;
       font-size: 13px;
       font-weight: bold;
+      border-left: 1px solid #C3E7C1;
     }
 
     &:nth-child(1) {
